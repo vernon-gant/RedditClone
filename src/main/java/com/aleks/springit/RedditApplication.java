@@ -18,7 +18,7 @@ public class RedditApplication {
         SpringApplication.run(RedditApplication.class, args);
     }
 
-    @Bean
+    //@Bean
     CommandLineRunner runner(LinkRepository linkRepository, CommentRepository commentRepository) {
         return args -> {
             Link link = new Link("Getting Started with SB2","https;kok cobaka");
