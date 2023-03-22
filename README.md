@@ -1,62 +1,24 @@
-# Springit
+# Spring Boot Reddit Clone
 
-This is a reddit clone built using Spring Boot 2. I created this
-project to show off all the cool features of Spring Boot 2.
+This is an educative project for a Reddit clone built using Spring Boot 2 and Spring Framework 5, developed alongside a Udemy course. While following the course, I experimented with the project to deepen my understanding and enhance my skills.
 
-## Getting Started
+## Learning Outcomes
 
-TODO: How to get started?
-
-### Prerequisites
-
-TODO: What do they need to get started
-
-### Installing
-
-TODO: Installing
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+1. Gained knowledge of core Spring concepts like Beans, IoC, and Dependency Injection.
+2. Explored features of Spring Boot, Spring Data JPA, and Thymeleaf.
+3. Experienced MVC pattern in action.
 
 ## Built With
 
 * [Spring Boot 2](https://projects.spring.io/spring-boot/)
 * [Spring Framework 5](https://projects.spring.io/spring-framework/)
+* [Thymeleaf](https://www.thymeleaf.org/)
+* [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+* [H2 Database](https://www.h2database.com/)
+* [Maven](https://maven.apache.org/)
 
-## Contributing
+## Project Status
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+The project is not complete, as I stopped before implementing Spring Security. It turns out that learning Spring Security is a whole new adventure in itself - almost like undertaking another project! 😄
 
-## Authors
-
-* **Dan Vega** - [TheRealDanVega](http://www.therealdanvega.com)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
-## Acknowledgments
-
-* Thank you PurpleBooth for the [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
-* Thank you to the Spring Boot team for the awesome software!
-
+Regardless, this project has significantly boosted my Java skills and provided me with valuable hands-on experience using the Spring framework and the MVC pattern.
